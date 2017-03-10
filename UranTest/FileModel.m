@@ -1,15 +1,14 @@
 //
-//  ViewController.h
+//  FileModel.m
 //  UranTest
 //
 //  Created by Alex Hafros on 10.03.17.
 //  Copyright © 2017 Alex Hafros. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "FileModel.h"
 
-@interface ViewController : UIViewController
+@implementation FileModel
 
 
 @end
-
